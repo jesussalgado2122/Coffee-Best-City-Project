@@ -1,6 +1,6 @@
 # Monday Coffee Expansion SQL Project
 
-![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
+![Company Logo]
 
 ## Objective
 The goal of this project is to analyze the sales data of Cat Coffee, a company that has been selling its products online since January 2023, and to recommend the top two major cities in United States for opening new coffee shop locations based on consumer demand and sales performance.
