@@ -1,4 +1,4 @@
-# Monday Coffee Expansion SQL Project
+# Cat Coffee Expansion SQL Project
 
 ![Company Logo](https://github.com/jesussalgado2122/Coffee-Best-City-Project/blob/main/cat%20coffee.png)
 
