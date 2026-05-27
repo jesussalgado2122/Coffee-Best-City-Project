@@ -1,6 +1,6 @@
 # Monday Coffee Expansion SQL Project
 
-![Company Logo]
+![Company Logo](https://github.com/jesussalgado2122/Coffee-Best-City-Project/blob/main/cat%20coffee.png)
 
 ## Objective
 The goal of this project is to analyze the sales data of Cat Coffee, a company that has been selling its products online since January 2023, and to recommend the top two major cities in United States for opening new coffee shop locations based on consumer demand and sales performance.
